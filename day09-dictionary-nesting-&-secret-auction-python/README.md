@@ -62,3 +62,5 @@ The program utilizes a Python **dictionary** data structure where:
 - **Values** store the respective numeric bids.
 
 A custom looping function iterates through the dictionary values at completion to locate the maximum integer/float value, mapping it back to its corresponding key.
+
+By Dev Hassan Halidu.
